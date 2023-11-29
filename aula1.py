@@ -1,3 +1,3 @@
-print("hello Word ")
+print("hello Worq")
 print("Qual é seu nome")
 print("Sua Idade")
