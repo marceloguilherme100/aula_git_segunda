@@ -8,3 +8,4 @@ media = (nota1 + nota2) / 2
 print("Sua media foi: " , media)
 
 #################
+bbbbbbbb
